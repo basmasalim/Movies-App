@@ -9,7 +9,6 @@ A simple and elegant front-end movie browser built with HTML, CSS, JavaScript, a
 ## 🚀 Features
 
 - 🔥 Displays trending movies
-- 🔍 Search functionality
 - 📝 Movie details (title, overview, release date, rating)
 - 🎨 Responsive design (mobile & desktop)
 
